@@ -1,0 +1,59 @@
+.container{
+    display: center;
+    width:800px;
+    background: linear-gradient(to top,blue 0%,red 100%);
+    padding:15px 15px 15px 15px;
+}
+.Header{
+    font-size: 30px;
+    color:rgb(250, 243, 243) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Images{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+.Box1 {
+    height: 200px;
+    background-color:rgb(202, 54, 178);
+    margin: 10px;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+}
+.Box2 {
+    height: 200px;
+    background-color: rgba(236, 154, 229, 0.836);
+    margin: 10px;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+}
+.Box3 {
+    height: 200px;
+    background-color: rgba(246, 240, 247, 0.548);
+    margin: 10px;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    
+}
+.Ref-L{
+    font-size: 10px;
+    color: whitesmoke;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly; 
+}
+#Link{
+    color: yellowgreen;
+}
+
+
+
+
